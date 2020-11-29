@@ -3,7 +3,7 @@
 			"title": "I'm God, OK ?",
 			"description": "Konwersje zrobione przez Ace'a",
 			"author": "Aceaelus",
-			"version": "1.4.0",
+			"version": "1.5.0",
 			"minimumCoreVersion": "0.7.0",
 			"packs": [
        			 {
@@ -14,9 +14,9 @@
             			"entity": "Item"
         		},
        			 {
-           			 "name": "Gunslinger Weapons",
+           			 "name": "gunslinger-weapons",
            			 "label": "Gunslinger Weapons",
-           			 "path": "packs/gunslinger-weapons.db.db",
+           			 "path": "packs/gunslinger-weapons.db",
            			 "module": "FoundryVTT_Conversions",
             			"entity": "Item"
         			}
