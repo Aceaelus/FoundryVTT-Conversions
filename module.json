@@ -1,11 +1,14 @@
 	{
-			"name": "Ace_is_great",
+			"name": "FoundryVTT-Conversions",
 			"title": "I'm God, OK ?",
 			"description": "Konwersje zrobione przez Ace'a",
-			"author": "Aceaelus",
 			"version": "1.2.0",
-			"minimumCoreVersion": "0.6.0",
-			"compatibleCoreVersion":"0.7.0",
+			"minimumCoreVersion": "0.7.5",
+			"compatibleCoreVersion":"0.7.5",
+			"author": "Aceaelus",
+			"languages": [],
+			"esmodules": [],
+			"styles": [],
 			"packs": [
     					{
       					"name": "Ace Stuff",
@@ -20,7 +23,7 @@
       					"entity": "Item"
 						}
 					],
-			"url": "https://github.com/mrprimate/vtta-tokenizer/",
+			"url": "https://github.com/Aceaelus/FoundryVTT-Conversions",
   			"manifest": "https://github.com/Aceaelus/FoundryVTT-Conversions/releases/download/latest/module.json",
   			"download": "https://github.com/Aceaelus/FoundryVTT-Conversions/releases/download/latest/packs.zip"
 		  }
