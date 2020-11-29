@@ -3,7 +3,7 @@
 			"title": "I'm God, OK ?",
 			"description": "Konwersje zrobione przez Ace'a",
 			"author": "Aceaelus",
-			"version": "1.6.2",
+			"version": "1.6.5",
 			"minimumCoreVersion": "0.7.5",
 			"packs": [
        			 {
@@ -17,6 +17,13 @@
            			 "name": "gunslinger-weapons",
            			 "label": "FoundryVTT-Conversions - Gunslinger Weapons",
            			 "path": "packs/gunslinger-weapons.db",
+           			 "module": "FoundryVTT_Conversions",
+            			"entity": "Item"
+        			},
+				{
+           			 "name": "shadow-dancer",
+           			 "label": "FoundryVTT-Conversions - Shadow Dancer",
+           			 "path": "packs/shadow-dancer.db",
            			 "module": "FoundryVTT_Conversions",
             			"entity": "Item"
         			}
