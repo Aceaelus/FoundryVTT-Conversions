@@ -1,0 +1,24 @@
+	{
+			"name": "Ace_is_great",
+			"title": "I'm God, OK ?",
+			"description": "Konwersje zrobione przez Ace'a",
+			"author": "Aceaelus",
+			"version": "1.1.0",
+			"minimumCoreVersion": "0.6.0",
+			"compatibleCoreVersion":"0.7.0",
+			"packs": [
+    					{
+      					"name": "Ace Stuff",
+      					"label": "Agnus Stuff",
+      					"path": "packs/im-god-ok-.db",
+      					"entity": "Item"
+						}
+						{
+						"name": "Gunslinger Weapons",
+      					"label": "Gunslinger Weapons",
+      					"path": "packs/gunslinger-weapons.db",
+      					"entity": "Item"
+						}
+					]
+		  }
+		
