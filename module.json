@@ -3,7 +3,7 @@
 			"title": "I'm God, OK ?",
 			"description": "Konwersje zrobione przez Ace'a",
 			"author": "Aceaelus",
-			"version": "1.2.0",
+			"version": "1.3.0",
 			"minimumCoreVersion": "0.7.0",
 			"packs": [
        			 {
@@ -18,7 +18,7 @@
            			 "label": "Gunslinger Weapons",
            			 "path": "packs/gunslinger-weapons.db.db",
            			 "module": "FoundryVTT_Conversions",
-            			"entity": "Macro"
+            			"entity": "Item"
         			}
 		],
 			"url": "https://github.com/mrprimate/vtta-tokenizer/",
