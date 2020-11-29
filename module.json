@@ -3,19 +3,19 @@
 			"title": "I'm God, OK ?",
 			"description": "Konwersje zrobione przez Ace'a",
 			"author": "Aceaelus",
-			"version": "1.5.1",
-			"minimumCoreVersion": "0.7.0",
+			"version": "1.6.0",
+			"minimumCoreVersion": "0.7.5",
 			"packs": [
        			 {
            		 	"name": "Ace Stuff",
-           		 	"label": "Agnus Stuff",
+           		 	"label": "FoundryVTT-Conversions - Maiden of The Mists + Pact of Hand",
             			"path": "packs/im-god-ok-.db",
             			"module": "FoundryVTT_Conversions",
             			"entity": "Item"
         		},
        			 {
            			 "name": "gunslinger-weapons",
-           			 "label": "Gunslinger Weapons",
+           			 "label": "FoundryVTT-Conversions - Gunslinger Weapons",
            			 "path": "packs/gunslinger-weapons.db",
            			 "module": "FoundryVTT_Conversions",
             			"entity": "Item"
