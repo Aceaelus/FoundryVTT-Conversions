@@ -6,19 +6,20 @@
 			"version": "1.2.0",
 			"minimumCoreVersion": "0.7.0",
 			"packs": [
-    					{
-      					"name": "Ace Stuff",
-      					"label": "Agnus Stuff",
-      					"path":"packs/im-god-ok-.db",
-      					"entity": "Item"
-						},
-						{
-						"name": "Gunslinger Weapons",
-      					"label": "Gunslinger Weapons",
-      					"path":"packs/gunslinger-weapons.db",
-      					"entity": "Item"
-						}
-					],
+       			 {
+           		 	"name": "Ace Stuff",
+           		 	"label": "Agnus Stuff",
+            			"path": "packs/im-god-ok-.db",
+            			"module": "FoundryVTT_Conversions",
+            			"entity": "Item"
+        		},
+       			 {
+           			 "name": "Gunslinger Weapons",
+           			 "label": "Gunslinger Weapons",
+           			 "path": "packs/gunslinger-weapons.db.db",
+           			 "module": "FoundryVTT_Conversions",
+            			"entity": "Macro"
+        			},
 			"url": "https://github.com/mrprimate/vtta-tokenizer/",
   			"manifest": "https://raw.githubusercontent.com/Aceaelus/FoundryVTT-Conversions/main/module.json",
   			"download": "https://github.com/Aceaelus/FoundryVTT-Conversions/archive/main.zip",
