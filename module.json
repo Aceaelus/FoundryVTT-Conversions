@@ -4,7 +4,7 @@
 			"description": "Konwersje zrobione przez Ace'a",
 			"author": "Aceaelus",
 			"version": "2.0.5",
-			"minimumCoreVersion": "0.7.5",
+			"minimumCoreVersion": "0.7.7",
 			"packs": [
        			 {
            		 	"name": "Ace Stuff",
